@@ -45,14 +45,6 @@ Este proyecto explora la evolución del mercado de videojuegos a lo largo de las
 
 ---
 
-## 🖼️ Vista previa del dashboard
-
-![Vista del dashboard](./assets/dashboard-videogames.png)
-
-*La imagen está disponible en la carpeta `/assets`. También podés ver más visualizaciones en el archivo PDF adjunto.*
-
----
-
 ## 📁 Dataset
 
 El dataset utilizado está disponible públicamente en:
@@ -64,7 +56,7 @@ El dataset utilizado está disponible públicamente en:
 ## 📄 Licencia
 
 Este proyecto es de uso libre con fines **educativos y analíticos**.  
-Para usos comerciales, por favor contactá al autor.
+Para usos comerciales, por favor contactá conmigo.
 
 ---
 
